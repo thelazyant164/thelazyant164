@@ -1,6 +1,6 @@
 - Hi, I’m @thelazyant164
 - I’m interested in astronomy, singing, writing and most recently interior/exterior design as well.
-- I’m currently learning Mechatronics at HCM Unifersity of Technology. I'm self-teaching about game development as well.
+- I’m currently learning Software Development at Swinburne University of Technology. I'm self-teaching about game development as well.
 - I’m looking to collaborate on any software/tool/app/game projects.
 - How to reach me: through my personal email (lythienan164@gmail.com) or my school email (an.ly164@hcmut.edu.vn)
 
