@@ -1,8 +1,8 @@
 - Hi, I’m @thelazyant164
-- I’m interested in astronomy, singing, writing and most recently interior/exterior design as well.
-- I’m currently learning Software Development at Swinburne University of Technology. I'm self-teaching about game development as well.
-- I’m looking to collaborate on any software/tool/app/game projects.
-- How to reach me: through my personal email (lythienan164@gmail.com) or my school email (103499753@student.swin.edu.au)
+- I’m a ComSci/Game student at Swinburne Uni, majoring in SoftDev - although I consider GameDev to be my ride-or-die.
+- I have a keen interest in interactive narrative design, rapid prototyping and system architecture, though I am naturally curious and would love to expand my horizons.
+- I’m open to collaborate on any software/tool/app/game projects.
+- Reach me via my [personal](mailto:lythienan164@gmail.com) or [school](mailto:103499753@student.swin.edu.au) email.
 
 <!---
 thelazyant164/thelazyant164 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
